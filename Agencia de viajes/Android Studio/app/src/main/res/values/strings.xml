@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agencia de Turismo El Paisa</string>
+    <string name="nombre">Nombre y apellidos</string>
+    <string name="digite">Digite su Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="fecha2">DD/MM/AAAA</string>
+    <string name="destino">Elija el destino</string>
+    <string name="nropersonas">Nro. de Personas</string>
+    <string name="nrodias">Nro de días</string>
+    <string name="adicionales">Servicios adicionales </string>
+    <string name="tour">Tour por ciudad</string>
+    <string name="discoteca">Discoteca</string>
+    <string name="totalPlan">Total Plan</string>
+    <string name="descuento">Total Descuento</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+
+
+
+</resources>
